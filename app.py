@@ -1,2 +1,2 @@
 import os
-print(10 * 20)
+print(os.environ["a"] * os.environ["b"])
