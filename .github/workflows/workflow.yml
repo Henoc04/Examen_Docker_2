@@ -38,4 +38,4 @@ jobs:
           pip install -r requirements.txt
 
       - name: Executer l'application python
-        run: python app.py
+        run: python app_bonus.py
