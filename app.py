@@ -1,2 +1,2 @@
 import os
-print(os.environ["a"] * os.environ["b"])
+print(int(os.environ["a"] * int(os.environ["b"])))
