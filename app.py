@@ -1,2 +1,2 @@
 import os
-print(type(os.environ["a"] * float(os.environ["b"])))
+print(int(os.environ["a"] * int(os.environ["b"])))
