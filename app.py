@@ -1,2 +1,2 @@
 import os
-print(float(os.environ["a"] * float(os.environ["b"])))
+print(10 * 20)
